@@ -1,0 +1,29 @@
+print   prints a line
+'   encloses a string
+"   encloses a string
+''' encloses a string that is on multiple lines
+""" encloses a string that is on multiple lines
+#   marks a comment
+=   sets a value for a variable
+,   separates two things, e.g. a string from a variable name
++   adds two numbers
+-   subtracts two numbers
+*   multiplies two numbers
+/   divides two numbers
+>   greater than
+>=  greater than or equal to
+<   less than
+<=  less than or equal to
+%   1000 % 11 returns the remainder when you divide 1000/11 and drop the decimal from the result
+%   also serves to mark an embedded variable, as in "%d mi is how far to go", % (miles)
+%d  an embedded variable that is an integer
+%s  an embedded variable that is a string
+%r  an embedded variable that is raw data
+\   escapes one character from a string
+\n  new line
+\t  tab space
+\\  if you want to print the actual backslash
+raw_input() for user-provided input of any form
+input() for user-provided integer input
+
+
